@@ -1,45 +1,44 @@
-body{
-    margin: 0;
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #333333;
-    background-color: #EEEEEE;
-    box-sizing: content-box;
-    border: solid 18px white;
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #333333;
+  background-color: #eeeeee;
+  box-sizing: content-box;
+  border: solid 18px white;
 }
-#title{
-    font-size: 2.6rem;
+#title {
+  font-size: 2.6rem;
 }
-#title2{
-    margin: 10vh 0;
+#title2 {
+  margin: 10vh 0;
 }
-ul{
-    text-align: left;
-    margin: 10vh 26vw;
+ul {
+  text-align: left;
+  margin: 10vh 26vw;
 }
-img{
-    margin: 5px;
+img {
+  margin: 5px;
 }
-ul li{
-    margin: 3vh 0;
+ul li {
+  margin: 3vh 0;
 }
-#img-div{
-    background-color: white;
-    margin: 5vh 1vw;
+#img-div {
+  background-color: white;
+  margin: 5vh 1vw;
 }
-#img-caption{
-    margin: 3vh;
+#img-caption {
+  margin: 3vh;
 }
 .text {
-    margin: 2vh 27vw;
-    text-align: left;
+  margin: 2vh 27vw;
+  text-align: left;
 }
-#tribute-info{
-    margin-top: 7vh;
-    font-size: larger;
-    font-weight: bold;
-    
+#tribute-info {
+  margin-top: 7vh;
+  font-size: larger;
+  font-weight: bold;
 }
-#tribute-link{
-    color: #477CA7;
+#tribute-link {
+  color: #477ca7;
 }
